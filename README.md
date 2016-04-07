@@ -1,8 +1,8 @@
 # charmm.vim
 
-Syntax and indent files for [CHARMM](https://www.charmm.org/charmm/)
+Syntax and indent files for [CHARMM](https://www.charmm.org/charmm/).
 
-Based on previous work done by the [CHARMM community](https://www.charmm.org/ubbthreads/ubbthreads.php?ubb=showflat&Number=19038)
+Based on previous work done by the [CHARMM community](https://www.charmm.org/ubbthreads/ubbthreads.php?ubb=showflat&Number=19038).
 
 Features included so far:
 
@@ -36,5 +36,4 @@ With Vundle.vim:
 
 ### Manual installation
 
-Copy the contents of each directory in the respective directories inside
-`~/.vim`.
+Copy the contents of each directory in the respective directories inside `~/.vim`.
