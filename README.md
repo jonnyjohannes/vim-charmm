@@ -1,17 +1,23 @@
-# Charmm.vim
+# charmm.vim
 
-Syntax and indent files for CHARMM(https://www.charmm.org/charmm/)
+Syntax and indent files for [CHARMM](https://www.charmm.org/charmm/)
+
+Based on previous work done by the [CHARMM community](https://www.charmm.org/ubbthreads/ubbthreads.php?ubb=showflat&Number=19038)
 
 Features included so far:
 
 * Syntax highlighting for Charmm
 * Filetype detection for `*.charmm.*` files
 
+## Example
+
+![jonnyjohannes/charmm.vim](https://dl.dropboxusercontent.com/u/9525837/vim-charmm.png "jonnyjohannes/charmm.vim")
+
 ## Installation
 
 ### Plugin managers
 
-Install with the most common plugin managers including [Vundle][vundle] and [pathogen.vim][pathogen].
+Install with the most common plugin managers including [Vundle](https://github.com/VundleVim/Vundle.vim) and [pathogen.vim](https://github.com/tpope/vim-pathogen).
 
 With Vundle.vim:
 
