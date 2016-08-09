@@ -11,7 +11,7 @@ Features included so far:
 
 ## Example
 
-![jonnyjohannes/charmm.vim](https://dl.dropboxusercontent.com/u/9525837/vim-charmm.png "jonnyjohannes/charmm.vim")
+![jonnyjohannes/charmm.vim](vim-charmm.png "jonnyjohannes/charmm.vim")
 
 ## Installation
 
